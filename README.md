@@ -1,1 +1,1 @@
-This is a ranking project, where the user can rank movies, songs, and more. The base is a note taking project to setup the backend.
+This is a ranking project. The base is a note taking project to setup the backend.
